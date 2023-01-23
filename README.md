@@ -22,7 +22,7 @@ Bunları yaptı iseniz size yöneticiniz tarafından verilen ilk göreviniz 'Git
       - [x] 1- bilgisayarınızda değiştirdiğiniz dosyayı ekleyiniz (`git add DOSYA-ADI`), 
       - [x] 2- commit ediniz(`git commit -m 'YAPTIĞINIZ DEĞİŞİKLİĞİ ANLATAN BİR AÇIKLAMA'`) 
       - [x] 3- ve GİTHUB'a push'layınız(`git push -u origin ADINIZ-SOYADINIZ`). 
-- [ ] Github'da Pull Request oluşturunuz: (Sağda yeni oluşturduğunzu branch `'ADINIZ-SOYADINIZ'`, solda ise `main` branch olduğundan emin olunuz. "merge" buton'una basmadığınızda emin olunuz!)
+- [x] Github'da Pull Request oluşturunuz: (Sağda yeni oluşturduğunzu branch `'ADINIZ-SOYADINIZ'`, solda ise `main` branch olduğundan emin olunuz. "merge" buton'una basmadığınızda emin olunuz!)
 
 
 
